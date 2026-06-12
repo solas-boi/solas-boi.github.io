@@ -1,0 +1,12 @@
+import{j as i}from"./jsx-runtime-Blucd9Qg.js";import{useMDXComponents as n}from"./index-BRkUXrbv.js";import{M as s,C as r,a as e}from"./index-DL3fjVeR.js";import{T as a,B as m,D as h,W as d,a as c}from"./Tabs.stories-B8oXW6WC.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-B_xRu_T_.js";import"./index-CbrIw9sE.js";import"./index-Bhelpi4i.js";import"./index-DrFu-skq.js";import"./index-BQWhUlWo.js";import"./index-eS8l-D1x.js";import"./Tabs-CVJT3uXm.js";import"./Tabs-YapAOstT.js";import"./utils-Clm8nLOM.js";import"./SelectionIndicator-GRP_vUUg.js";import"./useFocusRing-C58TIrH0.js";import"./useEvent-B5MetaT2.js";import"./FocusScope-ozmm2sIM.js";import"./ProgressBar-Dn7Gc5XP.js";import"./Label-DSRs3bn3.js";import"./index-CgLgilxD.js";import"./useControlledState-fS0KWGMw.js";import"./useListState-Ch7tApYw.js";import"./styled-components.browser.esm-hO7_nGqz.js";import"./Select-C8OYF7oV.js";import"./ListBox-C4lKOGph.js";import"./Dialog-CrLtAaL_.js";import"./Button-rLog8i9z.js";import"./Text-DtQ0Coqa.js";import"./usePreventScroll-CrCA2VL3.js";import"./VisuallyHidden-Smqc2hEy.js";import"./Select-BqPYE2sL.js";import"./Form-CPXdpJDm.js";import"./useFormReset-DZzsBwMl.js";import"./Select.styled-BYst8EGj.js";import"./ScrollShadow.hooks-yTS4ggiE.js";import"./OuterField-BDPbjITq.js";import"./Typography-BYRdA7Ce.js";import"./index-NgCCK6aN.js";import"./Popover-B44-tnUF.js";import"./index-CRAeHTmb.js";import"./OverlayContext-BmgfW47V.js";import"./ListBoxItem-aeSDMqb0.js";import"./ReactAriaProviders-LKY0QchP.js";import"./InputLabelTop-B8nTWzvR.js";import"./InlineAlert-4LuJOH3h.js";import"./TooltipPopover-CtEPaHq9.js";import"./InlineTooltipIconButton-Bv-YOaOJ.js";import"./Tooltip-BZFGQWzD.js";import"./Button-JMOh16Cg.js";import"./Spinner-BJw-yL-S.js";function p(o){const t={h1:"h1",h2:"h2",h3:"h3",...n(),...o.components};return i.jsxs(i.Fragment,{children:[i.jsx(s,{of:a}),`
+`,i.jsx(t.h1,{id:"tabs",children:"Tabs"}),`
+`,i.jsx(t.h2,{id:"properties",children:"Properties"}),`
+`,i.jsx(r,{of:m}),`
+`,i.jsx(e,{of:m}),`
+`,i.jsx(t.h2,{id:"variants",children:"Variants"}),`
+`,i.jsx(t.h3,{id:"disabled-items",children:"Disabled items"}),`
+`,i.jsx(r,{of:h}),`
+`,i.jsx(t.h3,{id:"with-icon",children:"With icon"}),`
+`,i.jsx(r,{of:d}),`
+`,i.jsx(t.h3,{id:"with-heading",children:"With heading"}),`
+`,i.jsx(r,{of:c})]})}function di(o={}){const{wrapper:t}={...n(),...o.components};return t?i.jsx(t,{...o,children:i.jsx(p,{...o})}):p(o)}export{di as default};
