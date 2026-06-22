@@ -1,5 +1,0 @@
-import{j as t}from"./jsx-runtime-Blucd9Qg.js";import{useMDXComponents as e}from"./index-BRkUXrbv.js";import{M as s,C as m,a as p}from"./index-CDrPc-i8.js";import{I as a,B as n}from"./InlineAlert.stories-BOUwygLp.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DnVIzASh.js";import"./index-CbrIw9sE.js";import"./index-Bhelpi4i.js";import"./index-DrFu-skq.js";import"./index-DfrVGm6s.js";import"./InlineAlert-BE1k4WaS.js";import"./index-CRAeHTmb.js";import"./styled-components.browser.esm-hO7_nGqz.js";import"./index-CgLgilxD.js";import"./Typography-SwM_NNf7.js";import"./index-NgCCK6aN.js";function i(o){const r={h1:"h1",h2:"h2",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:a}),`
-`,t.jsx(r.h1,{id:"inlinealert",children:"InlineAlert"}),`
-`,t.jsx(r.h2,{id:"properties",children:"Properties"}),`
-`,t.jsx(m,{of:n}),`
-`,t.jsx(p,{of:n})]})}function v(o={}){const{wrapper:r}={...e(),...o.components};return r?t.jsx(r,{...o,children:t.jsx(i,{...o})}):i(o)}export{v as default};
