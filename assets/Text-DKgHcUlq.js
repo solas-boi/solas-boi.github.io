@@ -1,0 +1,1 @@
+import{b as o,c as $}from"./filterDOMProps-_sa4KaGY.js";import{r as a,e as n}from"./index-BlWTxUPR.js";const b=a.createContext({}),p=a.forwardRef(function(e,t){[e,t]=o(e,t,b);let{elementType:c="span",...f}=e,r=$[c];return n.createElement(r,{className:"react-aria-Text",...f,ref:t})});export{p as $,b as a};
