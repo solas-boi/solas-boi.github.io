@@ -10,5 +10,5 @@ try{
   * {
     -webkit-tap-highlight-color: transparent;
   }
-`;function wa(e){return e==="boi"?va:e==="newIreland"?Fi:e==="davy"?Li:va}var{light:{color:pe}}=wa("boi"),ka=jt({base:"light",brandImage:"./solas.svg",brandTitle:`react-docs version ${Wt}`,colorSecondary:pe.digitalBlue,textColor:pe.darkGrey,fontBase:"OpenSans-Regular",appBg:pe.white,appContentBg:pe.white,appPreviewBg:pe.white,barTextColor:pe.mediumGrey,barSelectedColor:pe.digitalBlue,barBg:pe.white});Gt.setConfig({theme:ka,toolbar:{"storybook/background":{hidden:!0}}});})();
+`;function wa(e){return e==="boi"?va:e==="newIreland"?Fi:e==="davy"?Li:va}var{light:{color:pe}}=wa("boi"),ka=jt({base:"light",brandImage:"./React-icon.png",brandTitle:`react-docs version ${Wt}`,colorSecondary:pe.digitalBlue,textColor:pe.darkGrey,fontBase:"OpenSans-Regular",appBg:pe.white,appContentBg:pe.white,appPreviewBg:pe.white,barTextColor:pe.mediumGrey,barSelectedColor:pe.digitalBlue,barBg:pe.white});Gt.setConfig({theme:ka,toolbar:{"storybook/background":{hidden:!0}}});})();
 }catch(e){ console.error("[Storybook] One of your manager-entries failed: " + import.meta.url, e); }
