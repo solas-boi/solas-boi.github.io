@@ -1,5 +1,0 @@
-import{j as o}from"./jsx-runtime-BjG_zV1W.js";import{useMDXComponents as i}from"./index-C77b8QXo.js";import{M as e,C as m,a}from"./index-C2V8n-Kx.js";import{P as p,B as n}from"./ProgressIndicator.stories-nNxDGeM8.js";import"./index-BlWTxUPR.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-CqurxUOW.js";import"./index-BPhdHRfG.js";import"./index-Bhelpi4i.js";import"./index-Bhqu_tAV.js";import"./index-BDNQ1RZ6.js";import"./index-KUtr2Lc-.js";import"./Typography-CP2JGh9q.js";import"./index-BP3DsMOr.js";function s(r){const t={h1:"h1",h2:"h2",...i(),...r.components};return o.jsxs(o.Fragment,{children:[o.jsx(e,{of:p}),`
-`,o.jsx(t.h1,{id:"progressindicator",children:"ProgressIndicator"}),`
-`,o.jsx(t.h2,{id:"properties",children:"Properties"}),`
-`,o.jsx(m,{of:n}),`
-`,o.jsx(a,{of:n})]})}function B(r={}){const{wrapper:t}={...i(),...r.components};return t?o.jsx(t,{...r,children:o.jsx(s,{...r})}):s(r)}export{B as default};
